@@ -1,4 +1,4 @@
-# viaz — multipath connection bonding для обхода блокировок
+# viaz — multipath connection bonding
 
 Библиотека на Go, объединяющая несколько физических соединений (путей) в один
 надёжный логический поток (`net.Conn`). В отличие от smux/yamux (мультиплексация
